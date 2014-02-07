@@ -9,6 +9,7 @@
 #define __NODE_CANVAS_H__
 
 #include <v8.h>
+#include <sys/types.h>
 #include <node.h>
 #include <node_object_wrap.h>
 #include <node_version.h>
